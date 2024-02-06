@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/login.js
+/signup.js
 /.pnp
 .pnp.js
 
